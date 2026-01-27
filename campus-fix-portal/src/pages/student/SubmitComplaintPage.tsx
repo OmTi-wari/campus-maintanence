@@ -103,7 +103,7 @@ export default function SubmitComplaintPage() {
                     <FormItem>
                       <FormLabel>Your Name</FormLabel>
                       <FormControl>
-                        <Input placeholder="John Doe" {...field} />
+                        <Input placeholder="Enter your full name" {...field} />
                       </FormControl>
                       <FormMessage />
                     </FormItem>
@@ -117,7 +117,7 @@ export default function SubmitComplaintPage() {
                     <FormItem>
                       <FormLabel>Email Address</FormLabel>
                       <FormControl>
-                        <Input type="email" placeholder="john.doe@college.edu" {...field} />
+                        <Input type="email" placeholder="student@university.edu" {...field} />
                       </FormControl>
                       <FormDescription>
                         We'll use this to send you updates about your complaint
