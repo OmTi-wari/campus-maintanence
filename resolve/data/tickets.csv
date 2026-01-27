@@ -1,0 +1,442 @@
+complaint,category,priority
+Power outage in entire floor since morning,Electrical,Critical
+Main breaker keeps tripping with burning smell,Electrical,Critical
+Exposed wire sparking near reception desk,Electrical,Critical
+Server room AC lost power and alarms beeping,Electrical,High
+Lights flickering constantly in conference room,Electrical,Medium
+One wall socket not working in cabin,Electrical,Medium
+Emergency exit lights not turning on,Electrical,High
+UPS showing fault and systems shutting down,Electrical,Critical
+Electric shock felt when touching metal door,Electrical,Critical
+Generator not starting during power cut,Electrical,High
+Ceiling fan making loud noise and slowing,Electrical,Medium
+Office lights too dim after recent repair,Electrical,Medium
+Electrical panel door broken and open,Electrical,High
+Short circuit smell coming from pantry switchboard,Electrical,Critical
+Parking area lights not working at night,Electrical,High
+One phase down causing half equipment off,Electrical,Critical
+Switch sparks when turned on in meeting room,Electrical,Critical
+Desk lamp outlet loose and unstable,Electrical,Medium
+Fire alarm panel lost power suddenly,Electrical,Critical
+Power backup draining very fast,Electrical,High
+Multiple plugs overheating near printers,Electrical,High
+Corridor lights stay on all day,Electrical,Medium
+Voltage fluctuation affecting computers,Electrical,High
+Electric meter display blank,Electrical,High
+Light switch cracked but still works,Electrical,Medium
+Extension cord damaged and taped,Electrical,High
+Motion sensor lights not detecting movement,Electrical,Medium
+Control room power went down unexpectedly,Electrical,Critical
+Outdoor lights flicker during rain,Electrical,High
+Some bulbs fused in common area,Electrical,Medium
+Water leaking heavily from ceiling,Plumbing,Critical
+Main water supply burst near entrance,Plumbing,Critical
+Toilet overflowing and water spreading,Plumbing,Critical
+No water supply on entire floor,Plumbing,High
+Washbasin tap dripping continuously,Plumbing,Medium
+Blocked toilet causing bad smell,Plumbing,High
+Hot water not available in washroom,Plumbing,Medium
+Pipe making loud banging noise,Plumbing,High
+Water pressure extremely low in building,Plumbing,High
+Sewage backing up in basement drain,Plumbing,Critical
+Small leak under sink in pantry,Plumbing,Medium
+Urinal flush not working properly,Plumbing,Medium
+Water tank overflow alarm triggered,Plumbing,High
+Bathroom floor flooded after flush,Plumbing,High
+Broken pipe spraying water outside,Plumbing,Critical
+Tap handle loose and hard to close,Plumbing,Medium
+Drain cover missing in restroom,Plumbing,High
+No hot water in entire block,Plumbing,High
+Pipe corrosion visible with slow leak,Plumbing,High
+Hand wash sink clogged but usable,Plumbing,Medium
+Water dripping near electrical outlet,Plumbing,Critical
+Flush button stuck in pressed position,Plumbing,Medium
+Water heater making hissing sound,Plumbing,High
+Toilet seat broken needs replacement,Plumbing,Medium
+Overflowing water tank on terrace,Plumbing,Critical
+Pantry sink draining very slowly,Plumbing,Medium
+Valve not closing completely,Plumbing,High
+Restroom faucet missing aerator,Plumbing,Medium
+Continuous water flow in urinal,Plumbing,High
+Pipe insulation damaged in corridor,Plumbing,Medium
+Entire network down no internet access,IT,Critical
+Main server not responding since reboot,IT,Critical
+Email system completely inaccessible,IT,Critical
+Office WiFi very slow for everyone,IT,High
+Single PC not turning on,IT,High
+Printer not connecting to network,IT,Medium
+Database application crashing repeatedly,IT,High
+Firewall showing error and blocking traffic,IT,Critical
+UPS monitoring software offline,IT,Medium
+User cannot login to workstation,IT,Medium
+Multiple systems showing blue screen,IT,Critical
+Projector not detected by laptop,IT,Medium
+Shared drive inaccessible to team,IT,High
+Antivirus alerts popping constantly,IT,Medium
+Backup job failed last night,IT,High
+CCTV system feed down,IT,Critical
+Keyboard keys not responding,IT,Medium
+Application license expired warning,IT,Medium
+VoIP phones not working,IT,High
+Router overheating and rebooting,IT,Critical
+Software update stuck at 90 percent,IT,Medium
+Password reset emails delayed,IT,Medium
+Cloud dashboard not loading,IT,High
+Mouse cursor lagging badly,IT,Medium
+Access control system offline,IT,Critical
+Video conference audio not clear,IT,Medium
+Critical patch failed on server,IT,High
+Time server sync error across systems,IT,High
+Laptop battery not charging,IT,Medium
+Internal portal unreachable,IT,Critical
+Fire exit door jammed and wont open,General,Critical
+Strong gas smell in pantry area,General,Critical
+Elevator stuck between floors,General,Critical
+Main entrance shutter not opening,General,High
+Broken glass on staircase,General,High
+AC not cooling in one room,General,Medium
+Ceiling tile fell in hallway,General,High
+Water seepage on office wall,General,Medium
+Emergency alarm not audible,General,Critical
+Security gate not closing fully,General,High
+Office chair broken needs replacement,General,Medium
+Restroom door lock damaged,General,Medium
+Smoke detected near storage room,General,Critical
+Pest infestation noticed in pantry,General,High
+Loose handrail on stairs,General,High
+Paint peeling in meeting room,General,Medium
+Roof leakage during heavy rain,General,High
+Fire extinguisher missing from floor,General,High
+Broken window letting rain in,General,High
+Signage fallen near entrance,General,Medium
+Noise from ventilation duct,General,Medium
+Emergency assembly sign faded,General,Medium
+Security camera housing broken,General,High
+Floor tiles cracked in lobby,General,Medium
+Strong chemical odor in store room,General,Critical
+Door closer not working properly,General,Medium
+Storage racks unstable and shaking,General,High
+Washroom mirror broken,General,Medium
+Fire drill notice board missing,General,Medium
+Roof access door left unsecured,General,High
+light not working in room 101,Electrical,Medium
+tube light fused since morning in chemistry lab,Electrical,Medium
+no power in corridor near physics lab,Electrical,High
+electric shock felt from metal door near workshop,Electrical,Critical
+switch board sparking in hostel room B12,Electrical,Critical
+fan making noise and stops randomly,Electrical,Medium
+socket loose and overheating in library,Electrical,High
+entire floor has no electricity since night,Electrical,High
+generator not kicking in during power cut,Electrical,High
+UPS backup failed in admin office,Electrical,High
+voltage fluctuation damaging lab equipment,Electrical,High
+short circuit smell from electrical panel,Electrical,Critical
+lights flickering continuously in classroom 204,Electrical,Medium
+plug point burnt near projector,Electrical,High
+emergency lights not working in stairway,Electrical,High
+fan regulator broken,Electrical,Medium
+power outage in hostel block C,Electrical,High
+electric board cover missing, wires exposed,Electrical,Critical
+AC power line tripping again and again,Electrical,High
+projector socket dead,Electrical,Medium
+lift control panel has no power,Electrical,Critical
+computer lab sockets not giving power,Electrical,High
+extension cord melted in common room,Electrical,Critical
+switch stuck and cannot turn off light,Electrical,Medium
+ceiling fan completely dead in room 33,Electrical,Medium
+main fuse blown near canteen,Electrical,High
+electric shock from water cooler body,Electrical,Critical
+power backup not working in server room,Electrical,Critical
+night lamp not turning on,Electrical,Medium
+street light outside hostel not working,Electrical,Medium
+multiple lights out in seminar hall,Electrical,High
+wiring damaged by rats in store room,Electrical,High
+fan speed very slow even at max,Electrical,Medium
+spark seen while plugging charger,Electrical,High
+power socket missing cover plate,Electrical,High
+transformer humming loudly near gate,Electrical,High
+electric meter box open and unsafe,Electrical,Critical
+corridor lights stay on even when switched off,Electrical,Medium
+extension board shorted during rain,Electrical,Critical
+charging points not working in study hall,Electrical,Medium
+electric shock from lab table frame,Electrical,Critical
+power cut only in one wing of hostel,Electrical,High
+generator smoke observed during test,Electrical,Critical
+switch melted near bathroom,Electrical,High
+fan blade wobbling dangerously,Electrical,High
+electric bell stuck ringing,Electrical,Medium
+panel room smells like burning wire,Electrical,Critical
+MCB trips whenever AC starts,Electrical,High
+power socket cracked and loose,Electrical,High
+floor lights not working in auditorium,Electrical,Medium
+solar power inverter showing error,Electrical,High
+light holder broken and hanging,Electrical,High
+emergency exit lights dead,Electrical,High
+power surge damaged lab computers,Electrical,High
+switch board sparking when touched,Electrical,Critical
+electric pole light fallen outside hostel,Electrical,High
+corridor fan fell down partially,Electrical,Critical
+extension socket overheating in library,Electrical,High
+no electricity in exam hall,Electrical,High
+fuse keeps blowing in workshop,Electrical,High
+power fluctuation in recording studio,Electrical,High
+electric shock from hand dryer,Electrical,Critical
+fan not rotating properly,Electrical,Medium
+battery backup alarm constantly beeping,Electrical,Medium
+cable insulation peeling off,Electrical,High
+room heater socket burnt,Electrical,High
+emergency generator not starting,Electrical,High
+lights off in washroom area,Electrical,Medium
+power panel door broken,Electrical,High
+electric smell near switchboard,Electrical,High
+socket sparks when plug inserted,Electrical,Critical
+ceiling fan not balanced,Electrical,Medium
+charging station not supplying power,Electrical,Medium
+wires exposed near staircase,Electrical,Critical
+classroom lights too dim suddenly,Electrical,Medium
+power failure during lab exams,Electrical,High
+electric shock from lift button,Electrical,Critical
+main switch overheating,Electrical,High
+water leaking from broken pipe under sink,Plumbing,High
+tap dripping continuously in hostel bathroom,Plumbing,Medium
+toilet flush not working in room 210,Plumbing,High
+sewage smell coming from drain,Plumbing,High
+major water leakage in corridor ceiling,Plumbing,Critical
+washbasin clogged since yesterday,Plumbing,Medium
+overflowing toilet near library,Plumbing,High
+pipe burst near mess kitchen,Plumbing,Critical
+no water supply in hostel block A,Plumbing,High
+tap handle broken,Plumbing,Medium
+toilet water backing up,Plumbing,High
+water dripping near electrical panel,Plumbing,Critical
+shower not working properly,Plumbing,Medium
+drainage blocked causing flooding,Plumbing,Critical
+flush tank continuously filling,Plumbing,Medium
+leak under laboratory sink,Plumbing,High
+water pressure very low in top floor,Plumbing,Medium
+toilet seat broken and loose,Plumbing,Medium
+hand wash sink cracked and leaking,Plumbing,High
+water pipe vibrating loudly,Plumbing,Medium
+sewer overflow near hostel gate,Plumbing,Critical
+tap cannot be closed fully,Plumbing,Medium
+bathroom floor flooded due to blockage,Plumbing,High
+no hot water in staff quarters,Plumbing,Medium
+urinal clogged in boys washroom,Plumbing,High
+water leaking through wall,Plumbing,High
+pipe joint broken in ceiling,Plumbing,Critical
+toilet flush button stuck,Plumbing,Medium
+sink drainage very slow,Plumbing,Medium
+water tank overflow on roof,Plumbing,High
+smelly water coming from tap,Plumbing,High
+toilet flush handle missing,Plumbing,Medium
+bathroom drain cover missing,Plumbing,High
+constant dripping noise from pipe,Plumbing,Medium
+pipe rusted and leaking,Plumbing,High
+washroom tap spraying water everywhere,Plumbing,High
+water seepage damaging wall paint,Plumbing,Medium
+toilet blocked completely,Plumbing,High
+shower head broken,Plumbing,Medium
+overflowing sewage near canteen,Plumbing,Critical
+leakage from overhead tank,Plumbing,High
+water meter leaking,Plumbing,Medium
+tap stolen leaving open pipe,Plumbing,High
+water heater pipe leaking,Plumbing,High
+bathroom floor drain blocked by hair,Plumbing,Medium
+no water in laboratory taps,Plumbing,High
+flush leaking continuously,Plumbing,Medium
+toilet bowl cracked,Plumbing,High
+pipe burst during night,Plumbing,Critical
+washbasin support broken causing leak,Plumbing,High
+dirty water backing into sink,Plumbing,High
+water leaking near staircase,Plumbing,High
+toilet overflowing after every use,Plumbing,High
+water pressure too high causing splashes,Plumbing,Medium
+bathroom smell due to dry trap,Plumbing,Medium
+leak behind wall making damp patches,Plumbing,High
+main water line damaged,Plumbing,Critical
+urinal flush sensor not working,Plumbing,Medium
+tap missing in common wash area,Plumbing,Medium
+sewage water on road inside campus,Plumbing,Critical
+water seepage near electrical socket,Plumbing,Critical
+broken pipe under hostel stairs,Plumbing,High
+washroom drainage open and unsafe,Plumbing,High
+toilet flush making loud noise,Plumbing,Medium
+water tank lid broken,Plumbing,Medium
+bathroom ceiling leaking water,Plumbing,High
+sink overflowing due to blockage,Plumbing,High
+toilet door area flooded,Plumbing,High
+tap leaks only when pressure high,Plumbing,Medium
+sewer line blocked near lab,Plumbing,Critical
+washbasin pipe disconnected,Plumbing,High
+water dripping from fire sprinkler,Plumbing,High
+tap knob very tight to turn,Plumbing,Medium
+bathroom water not draining at all,Plumbing,High
+urinal water continuously running,Plumbing,Medium
+pipe crack visible in wall,Plumbing,High
+water leakage in server room ceiling,Plumbing,Critical
+drinking water tap not working,Plumbing,Medium
+water flow irregular in taps,Plumbing,Medium
+flush not stopping water flow,Plumbing,High
+sink smells very bad,Plumbing,Medium
+water pooling near hostel entrance,Plumbing,High
+bathroom tiles slippery due to leak,Plumbing,Medium
+water line exposed and dripping,Plumbing,High
+internet not working in hostel room,IT,Medium
+wifi down for entire floor,IT,High
+slow internet speed since morning,IT,Medium
+cannot login to college portal,IT,High
+server not responding in lab,IT,Critical
+printer not connecting to network,IT,Medium
+computer system not booting,IT,High
+wifi disconnects every few minutes,IT,Medium
+LAN port dead in classroom,IT,Medium
+exam server crashed during test,IT,Critical
+email not syncing on office computer,IT,Medium
+projector system not detecting laptop,IT,Medium
+network cable damaged,IT,High
+no internet in admin building,IT,High
+software license expired message,IT,Medium
+student ERP site not opening,IT,High
+printer jam error repeatedly,IT,Medium
+wifi signal very weak in library,IT,Medium
+computer lab PCs frozen,IT,High
+server room AC failure affecting servers,IT,Critical
+router overheating and shutting down,IT,High
+password reset page not working,IT,Medium
+campus app crashing on login,IT,Medium
+internet down during online class,IT,High
+antivirus blocking all access,IT,Medium
+PC keyboard not responding,IT,Medium
+monitor display flickering,IT,Medium
+wifi authentication failure for all users,IT,High
+database server offline,IT,Critical
+printer printing blank pages,IT,Medium
+system showing blue screen error,IT,High
+network switch not powering on,IT,High
+student portal extremely slow,IT,Medium
+lab software not launching,IT,Medium
+wifi down near hostel gate,IT,High
+file server unreachable,IT,Critical
+computer mouse not working,IT,Medium
+projector remote not responding,IT,Medium
+internet cable cut outside building,IT,High
+system clock resetting automatically,IT,Medium
+wifi shows connected but no internet,IT,Medium
+online payment portal not loading,IT,High
+computer overheating and shutting down,IT,High
+printer not detected by any PC,IT,High
+server backup failed last night,IT,High
+LAN network down in lab,IT,High
+login credentials rejected incorrectly,IT,Medium
+smart board not connecting to PC,IT,Medium
+wifi router making noise,IT,High
+system stuck on update screen,IT,Medium
+internet outage in whole campus,IT,Critical
+software crashing during practicals,IT,High
+computer virus alert popping up,IT,High
+printer toner error message,IT,Medium
+student wifi blocked without reason,IT,Medium
+server rack power issue affecting network,IT,Critical
+webcam not working on lab PC,IT,Medium
+email server delayed delivery,IT,Medium
+internet speed drops at night,IT,Medium
+PC not detecting USB drive,IT,Medium
+network login timeout error,IT,High
+exam results page showing error,IT,High
+wifi password changed without notice,IT,Medium
+computer speaker not working,IT,Medium
+system login takes too long,IT,Medium
+printer queue stuck,IT,Medium
+LAN cable loose in office,IT,Medium
+server temperature warning alert,IT,High
+application server unreachable,IT,Critical
+internet works only on some devices,IT,Medium
+computer lab mouse missing drivers,IT,Medium
+wifi access point fallen from ceiling,IT,High
+system fan very loud,IT,Medium
+college website down,IT,High
+server storage full warning,IT,High
+door lock broken in classroom,General,Medium
+AC not cooling in seminar hall,General,High
+lift stuck between floors,General,Critical
+broken chair in lecture room,General,Medium
+glass window cracked in corridor,General,High
+pest infestation in hostel room,General,High
+ceiling plaster falling in lab,General,High
+fan making rattling noise,General,Medium
+AC leaking water in office,General,High
+elevator buttons not responding,General,High
+door hinge loose and noisy,General,Medium
+smell of gas near pantry,General,Critical
+window cannot be closed properly,General,Medium
+ceiling damp and moldy,General,Medium
+broken table in library,General,Medium
+fire extinguisher missing from floor,General,High
+AC remote missing,General,Medium
+lift making jerking movements,General,High
+washroom mirror broken,General,Medium
+door lock jammed in hostel room,General,High
+strong foul smell in corridor,General,High
+broken cupboard in staff room,General,Medium
+ceiling fan cover missing,General,High
+cracks developing in wall,General,Medium
+AC not working in server room,General,Critical
+lift alarm not working,General,High
+loose floor tiles causing trip hazard,General,High
+broken notice board glass,General,Medium
+mosquito problem in classrooms,General,Medium
+door handle came off,General,Medium
+ceiling water stains visible,General,Medium
+furniture blocking emergency exit,General,High
+smoke smell from AC vent,General,Critical
+broken staircase railing,General,High
+window glass shattered,General,High
+fan grill bent and unsafe,General,High
+lift doors not closing fully,General,High
+AC making loud noise,General,Medium
+ceiling light cover fallen,General,High
+classroom door scraping floor,General,Medium
+rats seen in store room,General,High
+wall paint peeling badly,General,Medium
+broken bench in exam hall,General,Medium
+lift display not showing floor,General,Medium
+ceiling crack widening,General,High
+air conditioner dripping on desks,General,High
+door closer not working,General,Medium
+strong chemical smell near lab,General,High
+broken curtain rods,General,Medium
+fan shaking heavily,General,High
+lift stuck frequently,General,High
+AC airflow very weak,General,Medium
+window latch broken,General,Medium
+fallen ceiling tile,General,High
+broken podium in lecture hall,General,Medium
+fire alarm false triggering,General,High
+dust falling from ceiling,General,Medium
+door frame cracked,General,Medium
+exam stress making me unable to sleep,General,Medium
+feeling very anxious about upcoming exams,General,Medium
+teacher not uploading notes on time,General,Medium
+need counseling for personal issues,General,Medium
+food quality in mess is poor,General,Medium
+roommate causing disturbance,General,Medium
+request for exam re-evaluation,General,Medium
+feeling sick and need medical help,General,Medium
+complaint about grading system,General,Medium
+want extension for assignment deadline,General,Medium
+lost my ID card,General,Medium
+too much academic pressure lately,General,Medium
+need permission for leave,General,Medium
+complaint about exam schedule,General,Medium
+need help with scholarship form,General,Medium
+sports facilities booking issue,General,Medium
+request for hostel room change,General,Medium
+complaint about mess menu,General,Medium
+library fine dispute,General,Medium
+need guidance for internship,General,Medium
+class timing too early,General,Medium
+request for transcript,General,Medium
+complaint about attendance marking,General,Medium
+need career counseling session,General,Medium
+mental stress due to workload,General,Medium
+problem with exam registration,General,Medium
